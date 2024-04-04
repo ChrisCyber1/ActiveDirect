@@ -6,14 +6,23 @@
 This project details the process of setting up a virtualized home lab environment using Oracle VirtualBox, where I configured a Windows Server 2019 as a domain controller for Active Directory and a Windows 10 client. The lab serves as a practical learning platform for understanding and managing Active Directory Domain Services (AD DS), DHCP, NAT, and the use of PowerShell scripts for bulk user creation.
 <br />
 <h2>Languages and Utilities Used</h2>
-<b>Oracle VirtualBox</b>
-<b>Windows PowerShell</b>
-<b>Active Directory Domain Services</b>
-<b>DHCP</b>
-<b>NAT</b>
+
+- <b>Oracle VirtualBox</b>
+
+- <b>Windows PowerShell</b>
+
+- <b>Active Directory Domain Services</b>
+
+- <b>DHCP</b>
+
+- <b>NAT</b>
+
 <h2>Environments Used </h2>
-<b>Windows Server 2019</b>
-<b>Windows 10</b>
+
+- <b>Windows Server 2019</b>
+
+- <b>Windows 10</b>
+
 <h2>Project Walk-through:</h2>
 <p align="center">
 Setting up VirtualBox and VMs: <br/>
